@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "938611565067",
-    "project_id": "mp-snow",
-    "storage_bucket": "mp-snow.appspot.com"
+    "project_number": "131925222590",
+    "project_id": "snowex01",
+    "storage_bucket": "snowex01.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:938611565067:android:2052aac0b2d71c33fd5d0e",
+        "mobilesdk_app_id": "1:131925222590:android:e5d28c6cb4f4cbe1802aef",
         "android_client_info": {
-          "package_name": "com.example.mp_snow"
+          "package_name": "com.example.snowex01"
         }
       },
       "oauth_client": [
         {
-          "client_id": "938611565067-gufs3dmpi439c47otrg4uaj7uj9ope8g.apps.googleusercontent.com",
+          "client_id": "131925222590-b8u8hqd3j60afrf94lcbn55rduvm43fd.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAW5_qtJRJEIBJXWF7gn6JFtzMmNc_dBIs"
+          "current_key": "AIzaSyAKzoFPUj242AA7lfQSwkOmgoBHwTxBgqg"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "938611565067-gufs3dmpi439c47otrg4uaj7uj9ope8g.apps.googleusercontent.com",
+              "client_id": "131925222590-b8u8hqd3j60afrf94lcbn55rduvm43fd.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

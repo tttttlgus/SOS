@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "131925222590",
+    "project_id": "snowex01",
+    "storage_bucket": "snowex01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131925222590:android:e5d28c6cb4f4cbe1802aef",
+        "android_client_info": {
+          "package_name": "com.example.snowex01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131925222590-b8u8hqd3j60afrf94lcbn55rduvm43fd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKzoFPUj242AA7lfQSwkOmgoBHwTxBgqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131925222590-b8u8hqd3j60afrf94lcbn55rduvm43fd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
